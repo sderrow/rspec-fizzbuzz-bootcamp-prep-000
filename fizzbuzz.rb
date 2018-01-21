@@ -1,4 +1,4 @@
-# def fizzbuzz(x)
+def fizzbuzz(x)
 #   if x % 15 == 0
 #     return "FizzBuzz"
 #   elsif x % 3 == 0
@@ -8,4 +8,4 @@
 #   else
 #     return nil
 #   end
-# end
+end
